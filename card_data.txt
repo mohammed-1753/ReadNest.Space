@@ -1,0 +1,27 @@
+History Card Data:
+Title: The Fall of the Roman Empire
+Description: A tale of power, betrayal, and collapse in ancient times.
+Link Text: Read more about this historical event...
+
+Title: World War II Timeline
+Description: Key events that shaped the modern world.
+Link Text: Explore the timeline...
+
+Title: The Ancient Silk Road
+Description: A journey through trade and culture across continents.
+Link Text: Discover the route...
+
+Horror Card Data:
+Title: The Haunted Manor
+Description: A chilling story of a house with a dark past.
+Link Text: Dive into the terror...
+
+Title: The Midnight Visitor
+Description: A spooky encounter in the dead of night.
+Link Text: Read the tale...
+
+Fantasy Card Data:
+Title: The Lost Kingdom
+Description: An epic tale of magic and mystery.
+Link Text: Enter the realm...
+
